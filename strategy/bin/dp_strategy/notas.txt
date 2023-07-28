@@ -1,0 +1,2 @@
+al fin vemos que la clase contexto esta cerada al escribir
+y podemos evolucionar el systema
