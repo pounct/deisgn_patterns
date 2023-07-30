@@ -2,6 +2,8 @@
 <h1>Decorador</h1>
 
 <h2>Diagrama de clase</h2>
+<h3>5è principi de disseny</h3>
+<h4>Les classes han d'estar obertes per ampliació i tancades per modificacions</h4>
 
 <li>Cada component pot ser utilitzat sol o embolicat per un decorador</li>
 <li>Cada Decorador (TÉ-UN) Embolcalla un component, és a dir, té una variable instància que conté una referència a un component.</li>
