@@ -17,3 +17,5 @@
 ◦ o avellana</br>
 ◦ i remata-ho amb nata muntada.</br>
 <li>Starbuzz Coffee, carregant cadascun d'aquests suplements, han d'integrar-los al seu sistema de comandes</li>
+
+<img src="https://github.com/pounct/deisgn_patterns/assets/53088375/224b798a-6ecd-4b4f-9b0d-34c3a193c837"/>
