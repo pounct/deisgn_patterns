@@ -6,3 +6,14 @@
 <li>La variable d'instància de descripció es defineix a cada subclasse i conté una descripció de la beguda, per exemple "Excel·lent i fort"</li>
 <li>El mètode preu() és abstracte; les subclasses defineixen la seva pròpia implementació</li>
 <li>Cada subclasse implementa preu() per retornar el cost de la beguda</li>
+
+
+<li>A més del teu cafè, també pots demanar diversos ingredients com ara</li>
+◦ escuma de llet,
+◦ caramel,
+◦ xocolata,
+◦ xarop,
+◦ vainilla
+◦ o avellana
+◦ i remata-ho amb nata muntada.
+<li>Starbuzz Coffee, carregant cadascun d'aquests suplements, han d'integrar-los al seu sistema de comandes</li>
