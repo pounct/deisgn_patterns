@@ -9,11 +9,11 @@
 
 
 <li>A més del teu cafè, també pots demanar diversos ingredients com ara</li>
-◦ escuma de llet,
-◦ caramel,
-◦ xocolata,
-◦ xarop,
-◦ vainilla
-◦ o avellana
-◦ i remata-ho amb nata muntada.
+◦ escuma de llet,</br>
+◦ caramel,</br>
+◦ xocolata,</br>
+◦ xarop,</br>
+◦ vainilla</br>
+◦ o avellana</br>
+◦ i remata-ho amb nata muntada.</br>
 <li>Starbuzz Coffee, carregant cadascun d'aquests suplements, han d'integrar-los al seu sistema de comandes</li>
