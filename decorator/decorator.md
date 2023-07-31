@@ -10,3 +10,4 @@
 <li>Els decoradors implementen el mateix interfície o classe abstracta com a component que decoraran</li>
 <li>El component concret és un objecte al qual afegirem dinàmicament un nou comportament. Deriva de Component</li>
 
+<img src="https://github.com/pounct/deisgn_patterns/assets/53088375/6337f8fb-c3e2-4c0f-8807-8437bb3431fc"/>
