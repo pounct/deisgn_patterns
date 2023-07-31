@@ -8,6 +8,8 @@ Definició:
 
 Diagrama de classes
 
+<img src = "https://github.com/pounct/deisgn_patterns/assets/53088375/d37306ae-cc73-41c1-a608-d626a5a1c176"/>
+
 
 
 Implementació
