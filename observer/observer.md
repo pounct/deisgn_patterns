@@ -24,6 +24,12 @@
 <h3>La matriu d'observadors és la llista d'observadors que estan escoltant.</h3>
 <h3>◦ De fet, no n'hi ha prou que una classe implementi la interfície Observer per estar escoltant, s'ha de subscriure a un Observable mitjançant el mètode addObserver(Observer).</h3>
 
+<p>Hi ha variacions possibles quan s'utilitza aquest patró.
+◦ DIBUIXAR: En la solució presentada, es posa a disposició de cada observador una referència a l'objecte observable. Així, els observadors poden utilitzar-lo per cridar el mètode getState() i així obtenir l'estat de l'observable. Aquesta solució s'anomena "DRAW" perquè correspon als observadors, un cop informats de l'evolució, buscar informació sobre l'estat.
+◦ PUSH: Però hi ha la solució oposada anomenada “PUSH”.
+En aquest cas, passem l'estat actual de l'observable directament al mètode actualize(TypeState). Així, els observadors tenen accés directe a l'estat.
+  Quina és la millor solució entre les dues? És el primer perquè permet una vegada més vincular feblement l'observable amb els seus observadors. De fet, si l'observador té un punter a l'objecte observable i la classe observable evoluciona afegint un segon estat. L'observador que vulgui mantenir-se informat d'aquest segon estat només haurà de trucar a l'accessor corresponent. Mentre que si "PUSH" caldria canviar la signatura del mètode que pot resultar més perjudicial.</p>
+
 
 
 
