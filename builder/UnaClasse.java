@@ -17,10 +17,7 @@ public class UnaClasse {
         return unAtribut;
     }
 
-    public static ObjecteBuilder builder(){
 
-        return new ObjecteBuilder();
-    }
 
     // classe interna para objecte builder
     public static class ObjecteBuilder {

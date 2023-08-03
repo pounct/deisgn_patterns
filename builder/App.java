@@ -2,10 +2,12 @@ package org.example.categoria.creacio.builder;
 
 public class App {
     public static void main(String[] args) {
-        UnaClasse unaClasse=UnaClasse.builder()
+
+        UnaClasse unaClasse = Director.objecteBuilder()
+                //UnaClasse unaClasse=UnaClasse.objecteBuilder()
                 ///////////////setters o ..../////////////
-                .unAtributeClasse("tipo de atribute")
-                ////////////// instancia preparada retornar con build()
+                .unAtributeClasse("atribute")
+                ////////////// instancia finalizada retornar con build()
                 .build();
 
         System.out.println(unaClasse);
