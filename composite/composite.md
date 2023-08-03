@@ -10,6 +10,9 @@
 
   ![image](https://github.com/pounct/deisgn_patterns/assets/53088375/5d745111-8171-4fb6-8589-13c8d25a6876)
 
+  ![image](https://github.com/pounct/deisgn_patterns/assets/53088375/5e18d950-789d-4aa4-b073-4d7a21a00bcb)
+
+
 <h1>Propòsit del patró compost</h1>
 <li>◦ Organitzeu objectes en una estructura d'arbre per representar una jerarquia.</li>
 <li>◦ Permetre que el client manipuli un objecte únic i un objecte compost de la mateixa manera.</li>
