@@ -1,0 +1,1 @@
+Template Method és un patró de disseny de comportament que defineix l'esqueleto d'un algoritmo a la superclasse però permet que les subclases sobrescrivin els passos de l'algorament sense canviar la seva estructura.
