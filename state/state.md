@@ -44,6 +44,6 @@ L'objecte amb estat manté una referència a l'estat actual.
 Presenta les operacions a la part del client.
 </p>
 <h3>Responsabilitats</h3>
-  <li>Classe amb estat: és una classe amb estat. El seu comportament canvia en funció de la seva condició. La part canviant del seu comportament es delega a un objecte d'estat.</li>
+  <li>ClasseAmbEstat: és una classe amb estat. El seu comportament canvia en funció de la seva condició. La part canviant del seu comportament es delega a un objecte d'estat.</li>
   <li>Estat: defineix la interfície del comportament d'un estat.</li>
-  <li>Estat A, Estat B i Estat C: són subclasses concretes classes concretes de la interfície Estat. Implementen mètodes associats a un Estat.</li>
+  <li>EstatA, EstatB i EstatC: són concretes classes de la interfície Estat. Implementen mètodes associats a un Estat.</li>
