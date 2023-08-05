@@ -29,6 +29,9 @@
 
 ![image](https://github.com/pounct/deisgn_patterns/assets/53088375/ee8f7e72-df9e-4586-b183-d4a80d3208f8)
 
+![image](https://github.com/pounct/deisgn_patterns/assets/53088375/10a117a2-e806-47d0-b783-25111f4f17dd)
+
+
 
 <p>
   Motiu d'ús
