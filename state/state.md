@@ -5,6 +5,13 @@
   <h3>Tanmateix, com més l'objecte pot adoptar diferents estats de comportament, més complexa serà l'estructuració de l'objecte.</h3>
   <h3>El patró de disseny "estat" és la millor solució per estructurar i representar correctament els diferents estats d'un objecte així com les transicions entre aquests estats en una forma orientada a objectes.</h3>
 
+  <h3>Categoria:</h3>
+<h4>◦ Comportament</h4>
+  <h3>Propòsit del patró</h3>
+<h4>◦ Canviar el comportament d'un objecte en funció del seu estat intern.</h4>
+  <h3>Resultat:</h3>
+<h4>◦ El patró de disseny permet aïllar els algorismes específics de cada estat d'un objecte.</h4>
+
 <h2>Problema exemple</h2>
 
 <h3>• Una aeronau pot estar en un dels tres estats:</h3>
