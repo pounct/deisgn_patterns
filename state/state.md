@@ -12,6 +12,9 @@
   <h3>Resultat:</h3>
 <h4>◦ El patró de disseny permet aïllar els algorismes específics de cada estat d'un objecte.</h4>
 
+![image](https://github.com/pounct/deisgn_patterns/assets/53088375/910a7483-e335-4062-bff8-0d600e09ff11)
+
+
 <h2>Problema exemple</h2>
 
 <h3>• Una aeronau pot estar en un dels tres estats:</h3>
