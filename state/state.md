@@ -27,6 +27,9 @@
 <h3>• Quan està a l'aire, el mètode d'aterratge permet entrar a l'estat “a la pista”.</h3>
 <h3>• Les combinacions d'altres estats - mètodes generen un error, per exemple, invocant l'enlairament quan l'avió està al garatge.</h3>
 
+![image](https://github.com/pounct/deisgn_patterns/assets/53088375/ee8f7e72-df9e-4586-b183-d4a80d3208f8)
+
+
 <p>
   Motiu d'ús
 
