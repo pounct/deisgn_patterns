@@ -26,3 +26,20 @@
 <h3>• El mètode d'enlairament permet passar a l'estat "a l'aire".</h3>
 <h3>• Quan està a l'aire, el mètode d'aterratge permet entrar a l'estat “a la pista”.</h3>
 <h3>• Les combinacions d'altres estats - mètodes generen un error, per exemple, invocant l'enlairament quan l'avió està al garatge.</h3>
+
+<p>
+  Motiu d'ús
+
+  Un objecte té un funcionament diferent segons el seu estat intern.
+El seu estat canvia segons els mètodes anomenats.
+Pot ser un document informàtic.
+Té les funcions d'obrir, modificar, guardar o tancar.
+El comportament d'aquests mètodes canvia en funció de l'estat del document.
+Els diferents estats interns estan representats cadascun per una classe d'estat (obert, modificat, desat i tancat).
+Els informes tenen mètodes per dur a terme operacions i canviar d'estat (obrir, modificar, desar i
+Tanca).
+Alguns estats bloquegen determinades operacions (editar en
+estat tancat).
+L'objecte amb estat manté una referència a l'estat actual.
+Presenta les operacions a la part del client.
+</p>
