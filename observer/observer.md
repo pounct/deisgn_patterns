@@ -29,6 +29,9 @@
 ◦ PUSH: Però hi ha la solució oposada anomenada “PUSH”.
 En aquest cas, passem l'estat actual de l'observable directament al mètode actualize(TypeState). Així, els observadors tenen accés directe a l'estat.
   Quina és la millor solució entre les dues? És el primer perquè permet una vegada més vincular feblement l'observable amb els seus observadors. De fet, si l'observador té un punter a l'objecte observable i la classe observable evoluciona afegint un segon estat. L'observador que vulgui mantenir-se informat d'aquest segon estat només haurà de trucar a l'accessor corresponent. Mentre que si "PUSH" caldria canviar la signatura del mètode que pot resultar més perjudicial.</p>
+<p>
+El patró d'observador (un subconjunt del patró de publicació/subscripció asíncron) és un patró de disseny de programari en el qual un objecte, anomenat subjecte, manté una llista dels seus dependents, anomenats observadors, i els notifica automàticament de qualsevol canvi d'estat, generalment trucant.  un dels seus mètodes.  S'utilitza principalment per implementar sistemes de gestió d'esdeveniments distribuïts.
+</p>
 
 
 
